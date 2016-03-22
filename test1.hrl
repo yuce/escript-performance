@@ -1,0 +1,2 @@
+-define(OP_COUNT, 100000).
+-define(SECS(Ms), (1000000 / Ms)).
